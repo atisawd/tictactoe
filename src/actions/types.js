@@ -1,0 +1,16 @@
+export const ADD_CROSS = 'ADD_CROSS';
+export const RESTART_GAME = 'RESTART_GAME';
+export const TURN_CHANGE = 'TURN_CHANGE';
+export const MARK_SUCCESS = 'MARK_SUCCESS';
+export const GAME_END = 'GAME_END';
+export const TOGGLE_TURN = 'TOGGLE_TURN';
+export const UPDATE_SCORE_X = 'UPDATE_SCORE_X';
+export const UPDATE_SCORE_O = 'UPDATE_SCORE_O';
+export const UPDATE_SCORE = 'UPDATE_SCORE';
+export const DELETE_EMPTY_ID = 'DELETE_EMPTY_ID';
+export const SET_STRATEGY = 'SET_STRATEGY';
+export const SET_FIRST_TURN = 'SET_FIRST_TURN';
+export const TOGGLE_CURRENT_PLAYER = 'TOGGLE_CURRENT_PLAYER';
+export const GAME_WINNER = 'GAME_WINNER';
+export const ADD_FLASH_MESSAGE = 'ADD_FLASH_MESSAGE';
+export const DELETE_FLASH_MESSAGE = 'DELETE_FLASH_MESSAGE';
