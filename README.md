@@ -23,6 +23,6 @@ $ npm run dev
 
 [reactjs]: https://facebook.github.io/react/
 [redux]: http://redux.js.org/
-[play]: https://atisawd.github.io/react-redux-tictactoe/
+[play]: https://atisawd.github.io/tictactoe/
 [vuejssudoku]: https://github.com/andreynering/vuejs-sudoku
 [webpack]: https://webpack.github.io/
